@@ -1,0 +1,21 @@
+numpy @ file:///private/tmp/numpy-20240206-5707-t7tyyl/numpy-1.26.4
+openvino @ file:///private/tmp/openvino-20240120-6458-q864fr/openvino-2023.3.0/src/bindings/python/wheel
+protobuf==4.25.3
+PyQt3D==5.15.6
+PyQt5==5.15.10
+PyQt5_sip==12.13.0
+PyQt6==6.6.1
+PyQt6-3D==6.6.0
+PyQt6-Charts==6.6.0
+PyQt6-DataVisualization==6.6.0
+PyQt6-NetworkAuth==6.6.0
+PyQt6-sip==13.6.0
+PyQt6-WebEngine==6.6.0
+PyQtChart==5.15.6
+PyQtDataVisualization==5.15.5
+PyQtNetworkAuth==5.15.5
+PyQtPurchasing==5.15.5
+PyQtWebEngine==5.15.6
+setuptools @ file:///private/tmp/python-setuptools-20240223-4741-z6ae5m/setuptools-69.1.1
+TBB @ file:///private/tmp/tbb-20231202-5017-e7si4m/oneTBB-2021.11.0/python
+wheel @ file:///usr/local/Cellar/python%403.12/3.12.2_1/libexec/wheel-0.42.0-py3-none-any.whl#sha256=5f1ca525bef7466225922019d72cb06a9e91cd3ff807ddd4be1acb84655e5107
