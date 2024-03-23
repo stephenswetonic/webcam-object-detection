@@ -1,6 +1,6 @@
-# Project Name
+# webcam-object-detection
 
-Short description or introduction of the project.
+Basic object detection using detr-resnet-101 on the webcam feed.
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ Short description or introduction of the project.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/stephenswetonic/webcam-object-detection
    ```
 2. Navigate to the project directory:
 
@@ -33,4 +33,16 @@ Short description or introduction of the project.
 
     ```bash
     pip install -r requirements.txt
+    ```
+
+6. OR Install project dependencies directly with pip:
+
+    ```bash
+    pip install opencv-python transformers
+    ```
+
+## Usage
+
+    ```bash
+    python video-object-detector.py
     ```
