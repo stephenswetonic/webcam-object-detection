@@ -29,13 +29,7 @@ Basic object detection using detr-resnet-101 on the webcam feed.
     ```bash
     source .venv/bin/activate
     ```
-5. Install project dependencies from the requirements.txt file:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-6. OR Install project dependencies directly with pip:
+5. Install dependencies:
 
     ```bash
     pip install opencv-python transformers
