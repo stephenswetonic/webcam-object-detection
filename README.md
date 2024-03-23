@@ -43,6 +43,6 @@ Basic object detection using detr-resnet-101 on the webcam feed.
 
 ## Usage
 
-    ```bash
-    python video-object-detector.py
-    ```
+```bash
+python video-object-detector.py
+```
