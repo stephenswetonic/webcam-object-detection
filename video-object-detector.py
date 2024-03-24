@@ -36,6 +36,12 @@ thread.start()
 # Open webcam
 cap = cv2.VideoCapture(0)
 
+# Set width and height
+width = 800
+height = 800
+cap.set(cv2.CAP_PROP_FRAME_WIDTH, width)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, height)
+
 while cap.isOpened():
     ret, frame = cap.read()
     if not ret:

@@ -32,7 +32,8 @@ Basic object detection using detr-resnet-101 on the webcam feed.
 5. Install dependencies:
 
     ```bash
-    pip install opencv-python transformers
+    pip install opencv-python transformers timm pillow
+    pip install 'transformers[torch]'
     ```
 
 ## Usage
